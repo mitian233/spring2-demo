@@ -1,4 +1,4 @@
-package com.example.spring2.method;
+package cn.ac.mikan.spring2.method;
 import okhttp3.*;
 
 public class getInfo {

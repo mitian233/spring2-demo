@@ -1,8 +1,7 @@
-package com.example.spring2.controller;
+package cn.ac.mikan.spring2.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import com.example.spring2.method.getInfo;
 
 @RestController
 public class HomePage {

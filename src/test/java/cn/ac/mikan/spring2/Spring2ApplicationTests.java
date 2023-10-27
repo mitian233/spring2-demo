@@ -1,4 +1,4 @@
-package com.example.spring2;
+package cn.ac.mikan.spring2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
